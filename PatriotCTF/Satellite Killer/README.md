@@ -1,5 +1,6 @@
 # **Satellite Killer**
 **Difficulty**: Easy
+
 **Description**: Most satellites get to live out a relatively peaceful existence in space until their orbit eventually decays and they fall back to Earth.
 
 Most.
