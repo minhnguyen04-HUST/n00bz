@@ -1,8 +1,8 @@
 
 # **Scavenger Hunt**
-Difficulty: Beginner 
+**Difficulty**: Beginner 
 
-Can you find all the hidden pieces of the flag?
+**Description**: Can you find all the hidden pieces of the flag?
 
 *Flag format: PCTF{}*
 
