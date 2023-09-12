@@ -20,6 +20,6 @@ Through some basic Google searches, I could identify the name of the satellite w
 
 ![](https://github.com/minhnguyen04-HUST/n00bz/blob/main/PatriotCTF/Satellite%20Killer/image.jpg)
 
-So I knew the last one fell down to Earth in 2004, I tried some closed to 2004 and I got the one with NORAD_ID: 16085 right. 
+So I knew the last one fell down to Earth in 2004, I tried some closed to 2004 and I got the one with **NORAD_ID**: 16085 right. 
 
 *FLAG: PCTF{1979-017AN_2022_12_6}*
