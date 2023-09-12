@@ -18,7 +18,7 @@ In addition, please give me its object ID/International Code.
 
 Through some basic Google searches, I could identify the name of the satellite was Solwind. When reading about Solwind, I found out that the last debris deorbited 8 May 2004. But the challenge required the deorbited day of the second-to-last debris, so I tried another tools. I used this page to have a look on every 285 debris of the satellite: [https://in-the-sky.org/search.php](https://)
 
-![](PatriotCTF/Satellite Killer/image.jpg)
+![](https://github.com/minhnguyen04-HUST/n00bz/blob/main/PatriotCTF/Satellite%20Killer/image.jpg)
 
 So I knew the last one fell down to Earth in 2004, I tried some closed to 2004 and I got the one with NORAD_ID: 16085 right. 
 
